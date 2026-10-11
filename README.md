@@ -30,8 +30,11 @@
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="./profile-circle.png" width="280" alt="Almubeen profile photo with neon glow"/>
-
+<img
+  src="./profile.jpg"
+  width="220"
+  alt="Almubeen Profile Photo"
+/>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-ENTRY--LEVEL%20DATA%20ANALYST%20ROLES-00D9FF?style=for-the-badge&labelColor=111827" alt="Open to entry-level Data Analyst roles"/>
