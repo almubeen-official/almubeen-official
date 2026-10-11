@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./animated_network_banner.gif" width="100%" alt="Animated cyan particle-network banner inspired by my data portfolio"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,35:13232B,65:00CFE8,100:F5B544&height=210&section=header&text=ALMUBEEN%20I&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=ASPIRING%20DATA%20ANALYST&descSize=18&descAlignY=58" width="100%" alt="Animated Almubeen header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2300&pause=650&color=00D9FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Almubeen+I.;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Clean+%E2%80%A2+Analyze+%E2%80%A2+Visualize;Turning+Data+Into+Insights" alt="Animated typing introduction"/>
 
