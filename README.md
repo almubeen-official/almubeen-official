@@ -7,7 +7,10 @@
 <br/>
 
 <a href="https://github.com/almubeen-official">
-<img src="https://komarev.com/ghpvc/?username=almubeen-official&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img
+  src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"
+  alt="GitHub Profile"
+/>
 </a>
 
 <a href="https://github.com/almubeen-official?tab=followers">
