@@ -1,107 +1,195 @@
-<!-- ANIMATED HEADER -->
+<!-- ======================================================= -->
+
+<!--                  ANIMATED HEADER                        -->
+
+<!-- ======================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=ALMUBEEN%20I&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Data%20Into%20Insights&descSize=16&descAlignY=55" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Cleaning+Data+%7C+Finding+Insights;Building+Data-Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00FFA3&height=230&section=header&text=ALMUBEEN%20I&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descSize=17&descAlignY=58" />
 
 <br/>
 
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&lines=Welcome+to+my+Data+Analytics+World!;Transforming+Raw+Data+into+Insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Analyzing+Data.+Solving+Problems.;Building+My+Career+as+a+Data+Analyst." alt="Animated typing introduction" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/almubeen-official">
-<img src="https://komarev.com/ghpvc/?username=almubeen-official&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=almubeen-official&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/almubeen-official?tab=followers">
-<img src="https://img.shields.io/github/followers/almubeen-official?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+<img src="https://img.shields.io/github/followers/almubeen-official?style=for-the-badge&color=00FFA3&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+
+<a href="https://www.linkedin.com/in/almubeen-i/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
+<!-- ======================================================= -->
+
+<!--                       ABOUT ME                          -->
+
+<!-- ======================================================= -->
+
 ## 👨‍💻 About Me
 
-Hi! I'm **Almubeen I**, a BCA graduate passionate about Data Analytics, data visualization, and solving business problems through data.
+<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-📊 Currently developing my Data Analytics skills through practical projects and training at **DataMites, Chennai**.
+Hi! I'm **Almubeen I**, a BCA graduate passionate about Data Analytics, business intelligence, and data-driven decision-making.
 
-💡 I enjoy cleaning datasets, exploring patterns, analyzing trends, and transforming raw data into meaningful insights.
+📊 Currently developing my analytical skills through practical projects and Data Analytics training at **DataMites, Chennai**.
 
-🎯 My goal is to start my career as a **Data Analyst** and contribute to data-driven decision-making.
+💡 I enjoy transforming raw datasets into meaningful insights using Python, SQL, Excel, and Power BI.
 
-* 🔭 Working on: Data Analytics projects and interactive dashboards
-* 🌱 Learning: Advanced SQL, Python data analysis, and Power BI
-* 📈 Interested in: Business Intelligence, Data Visualization, and Exploratory Data Analysis
-* 🤝 Open to: Entry-level Data Analyst opportunities
-* 📍 Location: Chennai, Tamil Nadu, India
+🎯 My goal is to build a career as a Data Analyst and help businesses make better decisions through data.
+
+* 🔭 **Current Role:** Data Analyst Intern at DataMites
+* 🌱 **Learning:** Data Analytics and Business Intelligence
+* 📈 **Interests:** Data Cleaning, EDA, SQL Analysis, and Dashboard Development
+* 💼 **Career Goal:** Entry-Level Data Analyst
+* 📍 **Location:** Chennai, Tamil Nadu, India
+* 🤝 **Open to:** Data Analyst opportunities
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Skills & Technologies
+<!-- ======================================================= -->
+
+<!--                   TECHNICAL SKILLS                      -->
+
+<!-- ======================================================= -->
+
+## ⚡ Technical Skills
 
 <div align="center">
 
-### 📊 Data Analytics & Visualization
+### 🐍 Programming & Data Analysis
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a> <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="Programming skills"/>
 
-### 💻 Development Tools
+<br/>
 
-<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a> <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Not%20Listed-lightgrey?style=for-the-badge" alt="NumPy not listed as a skill"/>
 
-### 🧠 Core Analytical Skills
+### 🗄️ Databases
 
-`Data Cleaning` · `Exploratory Data Analysis` · `SQL Queries` · `Pivot Tables` · `Data Visualization` · `Dashboard Development` · `KPI Analysis`
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies"/>
+
+<img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+
+### 📊 Business Intelligence & Visualization
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+
+### 🛠️ Development & Data Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask&theme=dark" alt="Development tools"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-742774?style=for-the-badge" alt="Power Query"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20Requests-00A86B?style=for-the-badge" alt="Web scraping"/>
 
 </div>
 
+### 🧠 Analytical Skills
+
+`Data Cleaning` · `Data Transformation` · `Exploratory Data Analysis` · `SQL Queries` · `Pivot Tables` · `KPI Analysis` · `Dashboard Development` · `Statistical Analysis` · `Business Insights`
+
 ---
 
-## 🚀 Featured Projects
+<!-- ======================================================= -->
+
+<!--                    EXPERIENCE                           -->
+
+<!-- ======================================================= -->
+
+## 💼 Internship Experience
+
+### 📊 Data Analyst Intern — DataMites
+
+**2026 – Present**
+
+* Analyzing real-world datasets using Python, Pandas, SQL, and Power BI.
+* Performing data cleaning, preprocessing, and exploratory data analysis.
+* Developing interactive dashboards with KPIs, charts, slicers, and filters.
+* Preparing analytical reports and data-driven recommendations.
+
+### 📈 Virtual Data Analysis Apprentice Intern — YuvaIntern
+
+**July 2026 – September 2026 | Remote**
+
+* Conducted exploratory data analysis using Python and Pandas.
+* Cleaned and transformed datasets to improve data quality.
+* Created visualizations using Matplotlib and Seaborn.
+* Applied statistical analysis to identify patterns and trends.
+
+---
+
+<!-- ======================================================= -->
+
+<!--                     PROJECTS                            -->
+
+<!-- ======================================================= -->
+
+## 🚀 Featured Data Analytics Projects
+
+<div align="center">
+
+### 📊 Turning Data Into Business Insights
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Job Market Analysis
+### 👥 HR Analytics Dashboard
 
-Analyze job listing data to explore salary estimates, job titles, company ratings, and job locations.
+<img src="https://img.shields.io/badge/Domain-HR%20Analytics-00A3E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square"/>
 
-**Key Focus Areas**
+**Dataset:** 22,214 employee records
 
-* Data cleaning and preprocessing
-* Salary and job market analysis
-* SQL-based data exploration
-* Interactive dashboard development
+**Project Highlights**
 
-**Tech Stack:** Python · Pandas · SQL · Power BI
+* Analyzed employee workforce data.
+* Examined department and gender distribution.
+* Explored employee location and hiring trends.
+* Developed KPIs and interactive dashboard visualizations.
 
-<a href="https://github.com/almubeen-official?tab=repositories">
-<img src="https://img.shields.io/badge/View_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="View project repositories"/>
-</a>
+**Objective:** Support workforce analysis through clear, data-driven reporting.
 
 </td>
 <td width="50%" valign="top">
 
-### 👥 HR Analytics
+### 💼 Job Market Analysis
 
-Explore workforce data to understand employee distribution, workforce trends, and HR performance indicators.
+<img src="https://img.shields.io/badge/Domain-Job%20Market-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square"/>
 
-**Key Focus Areas**
+**Dataset:** 742 job postings | 42 features
 
-* Employee data analysis
-* HR KPI evaluation
-* Workforce distribution
-* Dashboard visualization
+**Project Highlights**
 
-**Tech Stack:** Python · Excel · Power BI
+* Analyzed salary estimates and job titles.
+* Explored company ratings and job locations.
+* Examined industries and skill requirements.
+* Developed dashboard visualizations and KPIs.
 
-<a href="https://github.com/almubeen-official?tab=repositories">
-<img src="https://img.shields.io/badge/View_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="View project repositories"/>
-</a>
+**Objective:** Understand job market patterns and salary trends.
 
 </td>
 </tr>
@@ -110,110 +198,174 @@ Explore workforce data to understand employee distribution, workforce trends, an
 
 ### 🛒 E-Commerce Market Analysis
 
-Analyze e-commerce data to explore sales performance, customer behavior, and business trends.
+<img src="https://img.shields.io/badge/Domain-E--Commerce-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-SQL-4479A1?style=flat-square"/>
 
-**Key Focus Areas**
+**Dataset:** 491 product records
 
-* Sales performance analysis
-* Customer behavior exploration
-* Business KPI tracking
-* Data-driven recommendations
+**Project Highlights**
 
-**Tech Stack:** Python · SQL · Excel · Power BI
+* Collected product data using web scraping.
+* Cleaned and analyzed product information.
+* Examined pricing, discounts, ratings, and reviews.
+* Explored vendors and stock availability.
+* Created an interactive Power BI dashboard.
 
-<a href="https://github.com/almubeen-official?tab=repositories">
-<img src="https://img.shields.io/badge/View_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="View project repositories"/>
-</a>
+**Objective:** Analyze e-commerce product data to identify useful market insights.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Quiz Game Application
 
-Developed a Python and Flask-based web application to help students prepare for interviews through interactive quizzes.
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framework-Flask-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square"/>
 
-**Key Features**
+**Project Type:** Interview Preparation Web Application
 
-* Multiple quiz categories
-* Random question selection
-* Score tracking
-* Student result storage
+**Project Highlights**
 
-**Tech Stack:** Python · Flask · HTML · CSS · SQLite · JSON
+* Built an interactive quiz application.
+* Implemented multiple quiz categories.
+* Added random question selection and score tracking.
+* Used persistent storage for student records and results.
 
-<a href="https://github.com/almubeen-official?tab=repositories">
-<img src="https://img.shields.io/badge/View_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="View project repositories"/>
-</a>
+**Objective:** Help students practice interview questions through an interactive web application.
 
 </td>
 </tr>
 </table>
 
-> **Note:** Replace the project buttons with your actual repository links when you have identified the corresponding repositories. Keep only the features and tools that your projects genuinely implement.
+<div align="center">
+
+<a href="https://github.com/almubeen-official?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+</div>
+
+> **Note:** The project descriptions above are based on my resume. Replace the general repository link with each project's actual GitHub URL, and add dashboard screenshots and SQL files where available.
 
 ---
+
+<!-- ======================================================= -->
+
+<!--                  GITHUB STATISTICS                      -->
+
+<!-- ======================================================= -->
 
 ## 📈 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/almubeen-official">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=almubeen-official&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Almubeen's GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=almubeen-official&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/almubeen-official">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almubeen-official&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almubeen-official&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=almubeen-official&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=almubeen-official&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+<!-- ======================================================= -->
+
+<!--                CONTRIBUTION ANIMATION                  -->
+
+<!-- ======================================================= -->
+
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/almubeen-official/almubeen-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/almubeen-official/almubeen-official/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🎓 Education & Career
+<!-- ======================================================= -->
 
-🎓 **Bachelor of Computer Applications (BCA)**
+<!--                 EDUCATION & LEADERSHIP                  -->
+
+<!-- ======================================================= -->
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
 Jamal Mohamed College, Tiruchirappalli
+2023 – 2026 | 71.1%
 
-📊 **Data Analytics Training**
-DataMites, Chennai
-
-💼 **Career Objective**
-Seeking an entry-level Data Analyst opportunity to apply my skills in Python, SQL, Excel, and Power BI to solve analytical problems and generate actionable business insights.
+**Higher Secondary (HSC)**
+Model Higher Secondary School, Tamil Nadu State Board
+2022 – 2023 | 59.8%
 
 ---
+
+## 🏆 Leadership Experience
+
+### Decoration Committee Chairman — VARIT 2K26
+
+**Jamal Mohamed College**
+
+* Led a team of 35+ students in decoration and event preparation.
+* Planned and coordinated stage and venue setup.
+* Collaborated with multiple committees to coordinate event activities.
+* Managed responsibilities to support timely event execution.
+
+---
+
+## 📜 Certifications
+
+* Data Analytics Certification — DataMites *(In Progress)*
+* AI & Machine Learning Certification — Anudip Foundation *(In Progress)*
+* TCS iON Career Edge – Young Professional
+* Certificate in Python Programming — Bharathidasan University
+
+---
+
+## 🌐 Languages
+
+* Tamil — Fluent
+* English — Fluent
+* Malayalam — Intermediate
+* Hindi — Intermediate
+* Urdu — Intermediate
+
+---
+
+<!-- ======================================================= -->
+
+<!--                       CONNECT                           -->
+
+<!-- ======================================================= -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/almubeen-i/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/almubeen-official">
-<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <div align="center">
 
-### 💡 "Turning Data Into Insights, One Project at a Time."
+### 💡 "Data tells a story. My goal is to discover it."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00FFA3&height=130&section=footer" alt="Animated footer"/>
 
 </div>
