@@ -30,14 +30,14 @@
 
 > ### ⚡ **Turning Complex Data into High-Impact Strategic Insights**
 
-* 🎯 **Career Focus:** Entry-Level Data Analyst / Business Intelligence Specialist
-* 💼 **Current Role:** **Data Analyst Intern** at *DataMites*
-* 📍 **Location:** Chennai, Tamil Nadu, India
-* 🎓 **Education:** **Bachelor of Computer Applications (BCA)** — *Jamal Mohamed College*
+- 🎯 **Career Focus:** Entry-Level Data Analyst / Business Intelligence Specialist[cite: 5]
+- 💼 **Current Role:** **Data Analyst Intern** at *DataMites*[cite: 5]
+- 📍 **Location:** Chennai, Tamil Nadu, India[cite: 5]
+- 🎓 **Education:** **Bachelor of Computer Applications (BCA)** — *Jamal Mohamed College*[cite: 5]
 
 ---
 
-I am a passionate **BCA graduate** specializing in **Data Analytics & Visualization**. I bridge the gap between technical data engineering and business strategy using **Python, SQL, MySQL, Pandas, Excel, and Power BI**. My workflow focuses on extracting raw data, cleaning complex datasets, performing **Exploratory Data Analysis (EDA)**, and constructing dynamic, KPI-driven dashboards for real-world decision-making.
+I am a passionate **BCA graduate** specializing in **Data Analytics & Visualization**. I bridge the gap between technical data engineering and business strategy using **Python, SQL, MySQL, Pandas, Excel, and Power BI**[cite: 5]. My workflow focuses on extracting raw data, cleaning complex datasets, performing **Exploratory Data Analysis (EDA)**, and constructing dynamic, KPI-driven dashboards for real-world decision-making[cite: 5].
 
 <br/>
 
@@ -49,12 +49,12 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 <td width="50%" valign="top">
 
 ### 🐍 **Programming & Data Wrangling**
-- **Core Languages:** `Python`, `SQL`
-- **Libraries:** `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`
-- **Databases:** `MySQL`, `SQLite`
+- **Core Languages:** `Python`, `SQL`[cite: 5]
+- **Libraries:** `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`[cite: 5]
+- **Databases:** `MySQL`, `SQLite`[cite: 5]
 - **Key Capabilities:**
-  * 🧹 Data Cleaning, Imputation & Feature Engineering
-  * 🔍 Exploratory Data Analysis (EDA) & Trend Analysis
+  * 🧹 Data Cleaning, Imputation & Feature Engineering[cite: 5]
+  * 🔍 Exploratory Data Analysis (EDA) & Trend Analysis[cite: 5]
   * ⚡ Advanced SQL Queries, Joins, GroupBy & Subqueries
 
 <br/>
@@ -70,13 +70,13 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 <td width="50%" valign="top">
 
 ### 📊 **BI, Dashboards & Web Tools**
-- **BI Tools:** `Power BI` *(DAX, Power Query, Dynamic Slicers)*
-- **Spreadsheets:** `Advanced Excel` *(Pivot Tables, XLOOKUP, SUMIFS)*
-- **Web & Development:** `VS Code`, `Flask`, `HTML5/CSS3`, `JSON`
+- **BI Tools:** `Power BI` *(DAX, Power Query, Dynamic Slicers)*[cite: 5]
+- **Spreadsheets:** `Advanced Excel` *(Pivot Tables, XLOOKUP, SUMIFS)*[cite: 5]
+- **Web & Development:** `VS Code`, `Flask`, `HTML5/CSS3`, `JSON`[cite: 5]
 - **Key Capabilities:**
-  * 📈 Interactive KPI Dashboards & Executive Reports
-  * 🌐 Automated Web Scraping & Data Extraction
-  * 💡 Data Storytelling & Presentation
+  * 📈 Interactive KPI Dashboards & Executive Reports[cite: 5]
+  * 🌐 Automated Web Scraping & Data Extraction[cite: 5]
+  * 💡 Data Storytelling & Presentation[cite: 5]
 
 <br/>
 
@@ -98,8 +98,8 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 
 | Position | Organization | Key Contributions & Achievements |
 | :--- | :--- | :--- |
-| **Data Analyst Intern** | **DataMites**<br/>`2026 – Present` | • Extracted and analyzed real-world datasets using **SQL** and **Python (Pandas)**.<br/>• Built interactive **Power BI dashboards** with dynamic KPIs, cross-filters, and custom slicers.<br/>• Formulated actionable reports to guide strategic business decisions. |
-| **Virtual Data Analysis Apprentice** | **YuvaIntern**<br/>`Jul 2026 – Sep 2026` · *Remote* | • Performed comprehensive **EDA** to uncover key market patterns and trend anomalies.<br/>• Transformed raw datasets to enhance consistency, structural integrity, and accuracy.<br/>• Prepared detailed documentation and data visualization decks. |
+| **Data Analyst Intern**[cite: 5] | **DataMites**[cite: 5]<br/>`2026 – Present`[cite: 5] | • Extracted and analyzed real-world datasets using **SQL** and **Python (Pandas)**[cite: 5].<br/>• Built interactive **Power BI dashboards** with dynamic KPIs, cross-filters, and custom slicers[cite: 5].<br/>• Formulated actionable reports to guide strategic business decisions[cite: 5]. |
+| **Virtual Data Analysis Apprentice**[cite: 5] | **YuvaIntern**[cite: 5]<br/>`Jul 2026 – Sep 2026` · *Remote*[cite: 5] | • Performed comprehensive **EDA** to uncover key market patterns and trend anomalies[cite: 5].<br/>• Transformed raw datasets to enhance consistency, structural integrity, and accuracy[cite: 5].<br/>• Prepared detailed documentation and data visualization decks[cite: 5]. |
 
 <br/>
 
@@ -110,29 +110,29 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 <tr>
 <td width="50%" valign="top">
 
-### 👥 **HR Analytics Dashboard**
+### 👥 **HR Analytics Dashboard**[cite: 5]
 ![](https://img.shields.io/badge/Dataset-22%2C214_Records-00D9FF?style=flat-square&logo=database)
 ![](https://img.shields.io/badge/Tech-MySQL_%7C_Power_BI-4515324A?style=flat-square)
 
-* **Goal:** Identify workforce trends, retention rates, and demographic distributions.
-* **Highlights:**
-  * Cleaned and queried **22,214 employee records** using MySQL.
-  * Formulated KPIs tracking departmental splits, gender ratios, and tenure.
-  * Built a sleek interactive **Power BI Dashboard**.
+- **Goal:** Identify workforce trends, retention rates, and demographic distributions[cite: 5].
+- **Highlights:**
+  * Cleaned and queried **22,214 employee records** using MySQL[cite: 5].
+  * Formulated KPIs tracking departmental splits, gender ratios, and tenure[cite: 5].
+  * Built a sleek interactive **Power BI Dashboard**[cite: 5].
 
 ---
 </td>
 <td width="50%" valign="top">
 
-### 💼 **Job Market Analysis**
+### 💼 **Job Market Analysis**[cite: 5]
 ![](https://img.shields.io/badge/Dataset-742_Postings_%7C_42_Features-8B5CF6?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/Tech-Python_%7C_SQL_%7C_Power_BI-00D9FF?style=flat-square)
 
-* **Goal:** Analyze compensation structures and regional hiring demand.
-* **Highlights:**
-  * Analyzed **742 job postings** across **42 dataset features**.
-  * Examined salary estimates against job roles, locations, and experience levels.
-  * Visualized key in-demand technical skills across industries.
+- **Goal:** Analyze compensation structures and regional hiring demand[cite: 5].
+- **Highlights:**
+  * Analyzed **742 job postings** across **42 dataset features**[cite: 5].
+  * Examined salary estimates against job roles, locations, and experience levels[cite: 5].
+  * Visualized key in-demand technical skills across industries[cite: 5].
 
 ---
 </td>
@@ -140,15 +140,15 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 **E-Commerce Market Analysis**
+### 🛒 **E-Commerce Market Analysis**[cite: 5]
 ![](https://img.shields.io/badge/Dataset-491_Products-F59E0B?style=flat-square&logo=googlechrome)
 ![](https://img.shields.io/badge/Tech-Python_%7C_Web_Scraping_%7C_Power_BI-3776AB?style=flat-square)
 
-* **Goal:** Understand pricing strategies, discounts, and customer sentiments.
-* **Highlights:**
-  * Scraped **491 product records** using Python & BeautifulSoup.
-  * Analyzed pricing correlations, stock availability, and user review scores.
-  * Built an interactive Power BI dashboard featuring drill-down filters.
+- **Goal:** Understand pricing strategies, discounts, and customer sentiments[cite: 5].
+- **Highlights:**
+  * Scraped **491 product records** using Python & BeautifulSoup[cite: 5].
+  * Analyzed pricing correlations, stock availability, and user review scores[cite: 5].
+  * Built an interactive Power BI dashboard featuring drill-down filters[cite: 5].
 
 ---
 </td>
@@ -158,8 +158,8 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 ![](https://img.shields.io/badge/App-Interactive_Prep_Tool-10B981?style=flat-square&logo=flask)
 ![](https://img.shields.io/badge/Tech-Flask_%7C_SQLite_%7C_JSON-007ACC?style=flat-square)
 
-* **Goal:** Interview preparation web application with live score tracking.
-* **Highlights:**
+- **Goal:** Interview preparation web application with live score tracking.
+- **Highlights:**
   * Created dynamic question modules for **Python, Aptitude, and Communication**.
   * Integrated **SQLite** and **JSON** persistence for student scores.
   * Designed clean web UI with responsive layout.
@@ -186,23 +186,23 @@ I am a passionate **BCA graduate** specializing in **Data Analytics & Visualizat
 
 ### 🎓 **Education**
 
-* **Bachelor of Computer Applications (BCA)**  
-  🏛️ *Jamal Mohamed College, Trichy*  
-  📅 `2023 – 2026` \| 🎯 **Score:** **71.1%**
+- **Bachelor of Computer Applications (BCA)**[cite: 5]  
+  🏛️ *Jamal Mohamed College, Trichy*[cite: 5]  
+  📅 `2023 – 2026`[cite: 5] \| 🎯 **Score:** **71.1%**[cite: 5]
 
-* **Higher Secondary Certificate (HSC)**  
-  🏫 *Model Higher Secondary School (TN Board)*  
-  📅 `2022 – 2023` \| 🎯 **Score:** **59.8%**
+- **Higher Secondary Certificate (HSC)**[cite: 5]  
+  🏫 *Model Higher Secondary School (TN Board)*[cite: 5]  
+  📅 `2022 – 2023`[cite: 5] \| 🎯 **Score:** **59.8%**[cite: 5]
 
 </td>
 <td width="50%" valign="top">
 
 ### 📜 **Certifications & Training**
 
-* 🔄 **Data Analytics Certification** — *DataMites* *(In Progress)*
-* 🔄 **AI & Machine Learning (AIML)** — *Anudip Foundation* *(In Progress)*
-* ✅ **TCS iON Career Edge — Young Professional** — *TCS iON*
-* ✅ **Python Programming Certificate** — *Bharathidasan University*
+- 🔄 **Data Analytics Certification** — *DataMites* *(In Progress)*
+- 🔄 **AI & Machine Learning (AIML)** — *Anudip Foundation* *(In Progress)*
+- ✅ **TCS iON Career Edge — Young Professional** — *TCS iON*
+- ✅ **Python Programming Certificate** — *Bharathidasan University*
 
 </td>
 </tr>
