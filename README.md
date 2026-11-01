@@ -88,11 +88,7 @@ I enjoy solving real-world business problems through data analysis, visualizatio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-* HTML & CSS
-* JavaScript (Basics)
-* Flask
 * Web Scraping
 * Requests & BeautifulSoup
 
@@ -162,17 +158,8 @@ I enjoy solving real-world business problems through data analysis, visualizatio
 * Analyzed pricing, discounts, ratings, reviews, and stock availability.
 * Developed an interactive dashboard with KPIs and slicers.
 
-### 🤖 5. Customer Purchase Prediction
 
-**Technologies:** Python | Pandas | Scikit-learn | Logistic Regression
-
-* Developed a machine learning classification application.
-* Used Age and Estimated Salary as input features.
-* Implemented train-test splitting and feature scaling.
-* Trained a Logistic Regression model.
-* Evaluated predictions using accuracy score and classification metrics.
-
-### 🎮 6. Quiz Game Application
+### 🎮 5. Quiz Game Application
 
 **Technologies:** Python | Flask | HTML | CSS | SQLite | JSON
 
@@ -181,7 +168,7 @@ I enjoy solving real-world business problems through data analysis, visualizatio
 * Implemented score tracking and leaderboard functionality.
 * Integrated SQLite and JSON for data storage.
 
-### 🔐 7. Random Password Generator
+### 🔐 6. Random Password Generator
 
 **Technology:** Python
 
@@ -190,7 +177,7 @@ I enjoy solving real-world business problems through data analysis, visualizatio
 * Allows users to specify password length.
 * Uses random character selection with letters, numbers, and special characters.
 
-### 👁️ 8. Face Detection System
+### 👁️ 7. Face Detection System
 
 **Technology:** Python | OpenCV
 
